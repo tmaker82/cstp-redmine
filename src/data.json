@@ -1,0 +1,1802 @@
+{
+  "data": [
+    {
+      "id": "bc7ef269-77f0-4426-ab58-32b061c7bdea",
+      "number": "1664-ОБ/2024",
+      "exactNumber": 1664,
+      "kind": "CHANGES",
+      "type": "CHANGE_REQUEST",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "4a2dd0d7-fd1a-4e5d-a691-715079030530",
+      "favourNumber": "62-У / 2021",
+      "favourTitle": "ГИС НИС Иные услуги",
+      "subject": "Разработка конвертеров под заявки с ЕПГУ по объектам второй очереди",
+      "userFio": "Кузякин Дмитрий Альбертович",
+      "userOrg": "Группа системного администрирования и управления конфигурациями информационных систем (отдел 66)",
+      "creationDate": "2024-03-12T15:36:24.326498",
+      "estimatedDecisionDate": "2024-03-13T15:39:04",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "HIGH",
+      "urgencyCode": "HIGH",
+      "degreeImpactCode": "HIGH",
+      "priorityName": "Высокий",
+      "urgencyName": "Высокая",
+      "degreeImpactName": "Высокая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "3.0 Планирование и согласование трудозатрат"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": []
+    },
+    {
+      "id": "bd3f4342-ab61-4cc9-9023-cb69364d623e",
+      "number": "4763-ОБ/2024",
+      "exactNumber": 4763,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "dba2eb49-8be0-464d-8417-c56739a89d59",
+      "favourNumber": "30-У / 2021",
+      "favourTitle": "ГИС НИС ПМВЗ (интеграция со СМЭВ)",
+      "subject": "Ошибка присвоения номера регистрации для заявления с ЕПГУ по ПО: 4250461202 от 04.07.2024",
+      "userFio": "Алилов Роман Газиевич",
+      "userOrg": "Служба технического заказчика (14)",
+      "creationDate": "2024-07-08T14:14:42.336298",
+      "estimatedDecisionDate": "2024-07-08T16:14:42",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "CRITICAL",
+      "urgencyCode": "CRITICAL",
+      "degreeImpactCode": "CRITICAL",
+      "priorityName": "Критический",
+      "urgencyName": "Критическая",
+      "degreeImpactName": "Критическая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "c4b8eed5-84cb-4e0c-abe2-d1bc339f1f37",
+      "number": "673-ОБ/2024",
+      "exactNumber": 673,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "2a7ef2aa-b0f1-4e63-ab16-1aff0d2ee434",
+      "favourNumber": "43-У / 2021",
+      "favourTitle": "ГИС СУПД - Обеспечение процессов делопроизводства ТЗ НМПТ ГУ ПрЭВМ БД ТИМС",
+      "subject": "СУП вопрос",
+      "userFio": "Усова Г.В.",
+      "userOrg": "Отдел обеспечения функционирования прикладных информационных систем (90)",
+      "creationDate": "2024-02-02T16:02:14.904995",
+      "estimatedDecisionDate": "2024-02-08T13:02:14",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "LOW",
+      "urgencyCode": "no",
+      "degreeImpactCode": "no",
+      "priorityName": "Низкий",
+      "urgencyName": "Не определена",
+      "degreeImpactName": "Не определена",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "840e0b25-5912-4207-9dae-bdcd000ecdf5",
+          "title": "ГИС СУПД",
+          "number": "19-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "c7018cc1-8334-499e-a5e7-3c893a987c5d",
+      "number": "2849-ОБ/2024",
+      "exactNumber": 2849,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "d05583ae-6d3b-4ecc-8a9a-a7bf5e728f0f",
+      "favourNumber": "1-У / 2023",
+      "favourTitle": "Вывод госуслуг на ЕПГУ",
+      "subject": "Тестирование подачи заявок через ЕПГУ",
+      "userFio": "Павлова Александра Игоревна",
+      "userOrg": "Отдел обеспечения функционирования прикладных информационных систем (90)",
+      "creationDate": "2024-04-22T17:25:57.527086",
+      "estimatedDecisionDate": "2024-04-27T12:41:57",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "HIGH",
+      "urgencyCode": "HIGH",
+      "degreeImpactCode": "HIGH",
+      "priorityName": "Высокий",
+      "urgencyName": "Высокая",
+      "degreeImpactName": "Высокая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "30a11786-f397-4af6-8a1a-5e7f7cb93998",
+          "title": "ЕПГУ",
+          "number": "3-КЕ / 2023"
+        }
+      ]
+    },
+    {
+      "id": "ce8f86b6-04e3-42c5-b9db-dc63b21bd7ac",
+      "number": "5150-ОБ/2022",
+      "exactNumber": 5150,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "3d8aabf2-aba4-4d1e-a664-d257d8f6e591",
+      "favourNumber": "31-У / 2021",
+      "favourTitle": "ГИС НИС - НСИ ОИС (интерфейс)",
+      "subject": "завести ошибки в ЦСТП по проекту НИС - ОЭ НИС",
+      "userFio": "Золкин Дмитрий Сергеевич",
+      "userOrg": "Отдел проектирования информационно-поисковых систем (119)",
+      "creationDate": "2022-09-28T13:14:50.163886",
+      "estimatedDecisionDate": "2022-09-29T10:14:50",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "HIGH",
+      "urgencyCode": "no",
+      "degreeImpactCode": "no",
+      "priorityName": "Высокий",
+      "urgencyName": "Не определена",
+      "degreeImpactName": "Не определена",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "d22ce888-6719-46a7-a1bb-dcd3175ef686",
+      "number": "3674-ОБ/2024",
+      "exactNumber": 3674,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "dba2eb49-8be0-464d-8417-c56739a89d59",
+      "favourNumber": "30-У / 2021",
+      "favourTitle": "ГИС НИС ПМВЗ (интеграция со СМЭВ)",
+      "subject": "контроь очереди ответов, остановка отправки пакетов в ГИС ГМП при отстутствии ответов от ГИС ГМП",
+      "userFio": "Пашкова Галина Валентиновна",
+      "userOrg": "Отдел обеспечения функционирования прикладных информационных систем (90)",
+      "creationDate": "2024-05-29T12:24:38.85897",
+      "estimatedDecisionDate": "2024-06-03T18:09:38",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "LOW",
+      "urgencyCode": "no",
+      "degreeImpactCode": "no",
+      "priorityName": "Низкий",
+      "urgencyName": "Не определена",
+      "degreeImpactName": "Не определена",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "e14f9b27-002e-4952-8d6a-58984a4c6d0b",
+      "number": "2158-ОБ/2024",
+      "exactNumber": 2158,
+      "kind": "CHANGES",
+      "type": "CHANGE_REQUEST",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "4a2dd0d7-fd1a-4e5d-a691-715079030530",
+      "favourNumber": "62-У / 2021",
+      "favourTitle": "ГИС НИС Иные услуги",
+      "subject": "Разработка конвертера для передачи видов сведений",
+      "userFio": "Кузякин Дмитрий Альбертович",
+      "userOrg": "Группа системного администрирования и управления конфигурациями информационных систем (отдел 66)",
+      "creationDate": "2024-03-29T12:25:56.276967",
+      "estimatedDecisionDate": "2024-04-01T12:33:19",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "HIGH",
+      "urgencyCode": "HIGH",
+      "degreeImpactCode": "HIGH",
+      "priorityName": "Высокий",
+      "urgencyName": "Высокая",
+      "degreeImpactName": "Высокая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "3.0 Планирование и согласование трудозатрат"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": []
+    },
+    {
+      "id": "e470a117-74b7-4e31-89dc-24686632407f",
+      "number": "5145-ОБ/2022",
+      "exactNumber": 5145,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "3d8aabf2-aba4-4d1e-a664-d257d8f6e591",
+      "favourNumber": "31-У / 2021",
+      "favourTitle": "ГИС НИС - НСИ ОИС (интерфейс)",
+      "subject": "завести ошибки в ЦСТП по проекту НИС - ОЭ НИС",
+      "userFio": "Золкин Дмитрий Сергеевич",
+      "userOrg": "Отдел проектирования информационно-поисковых систем (119)",
+      "creationDate": "2022-09-28T11:47:39.746016",
+      "estimatedDecisionDate": "2022-09-29T08:47:39",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "HIGH",
+      "urgencyCode": "no",
+      "degreeImpactCode": "no",
+      "priorityName": "Высокий",
+      "urgencyName": "Не определена",
+      "degreeImpactName": "Не определена",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    }
+  ],
+  "counter": {
+    "total": 38,
+    "execution": 38,
+    "overdue": 38,
+    "executed": 0,
+    "pending": 0
+  },
+  "totalRows": 38
+}
+{
+  "data": [
+    {
+      "id": "083a9102-7c7c-4561-8c66-a722ee68810e",
+      "number": "4541-ОБ/2024",
+      "exactNumber": 4541,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "dba2eb49-8be0-464d-8417-c56739a89d59",
+      "favourNumber": "30-У / 2021",
+      "favourTitle": "ГИС НИС ПМВЗ (интеграция со СМЭВ)",
+      "subject": "Передача статусов  с комментариями по заявкам на ПО 2024520020, 2024520021",
+      "userFio": "Алилов Роман Газиевич",
+      "userOrg": "Служба технического заказчика (14)",
+      "creationDate": "2024-06-27T12:47:22.891008",
+      "estimatedDecisionDate": "2024-06-27T14:47:22",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "CRITICAL",
+      "urgencyCode": "CRITICAL",
+      "degreeImpactCode": "CRITICAL",
+      "priorityName": "Критический",
+      "urgencyName": "Критическая",
+      "degreeImpactName": "Критическая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "0dedf08d-790a-4217-afb5-607b306e580b",
+      "number": "1907-ОБ/2024",
+      "exactNumber": 1907,
+      "kind": "CHANGES",
+      "type": "CHANGE_REQUEST",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "3d8aabf2-aba4-4d1e-a664-d257d8f6e591",
+      "favourNumber": "31-У / 2021",
+      "favourTitle": "ГИС НИС - НСИ ОИС (интерфейс)",
+      "subject": "Доработка ГИС НИС в части загрузки справочников.",
+      "userFio": "Кузякин Дмитрий Альбертович",
+      "userOrg": "Группа системного администрирования и управления конфигурациями информационных систем (отдел 66)",
+      "creationDate": "2024-03-20T15:39:41.353858",
+      "estimatedDecisionDate": "2024-03-21T15:40:30",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "HIGH",
+      "urgencyCode": "HIGH",
+      "degreeImpactCode": "HIGH",
+      "priorityName": "Высокий",
+      "urgencyName": "Высокая",
+      "degreeImpactName": "Высокая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "3.0 Планирование и согласование трудозатрат"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": []
+    },
+    {
+      "id": "1e6ad3b5-220f-4df8-b171-a1651b854db3",
+      "number": "1569-ОБ/2024",
+      "exactNumber": 1569,
+      "kind": "CHANGES",
+      "type": "CHANGE_REQUEST",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "4a2dd0d7-fd1a-4e5d-a691-715079030530",
+      "favourNumber": "62-У / 2021",
+      "favourTitle": "ГИС НИС Иные услуги",
+      "subject": "Доработка ГИС НИС в части взаимодействия с (ЕРОТ/ЕРУЛ).",
+      "userFio": "Кузякин Дмитрий Альбертович",
+      "userOrg": "Группа системного администрирования и управления конфигурациями информационных систем (отдел 66)",
+      "creationDate": "2024-03-06T12:13:55.160697",
+      "estimatedDecisionDate": "2024-03-06T15:09:17",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "CRITICAL",
+      "urgencyCode": "CRITICAL",
+      "degreeImpactCode": "CRITICAL",
+      "priorityName": "Критический",
+      "urgencyName": "Критическая",
+      "degreeImpactName": "Критическая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "4.1 Исполнение ЗИ"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "bases": []
+    },
+    {
+      "id": "2af86c32-a646-43a0-8762-89e062acfe07",
+      "number": "894-ОБ/2024",
+      "exactNumber": 894,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "4a2dd0d7-fd1a-4e5d-a691-715079030530",
+      "favourNumber": "62-У / 2021",
+      "favourTitle": "ГИС НИС Иные услуги",
+      "subject": "Ошибка загрузки МКПО в ГИС НИС",
+      "userFio": "otd3225@rupto.ru",
+      "userOrg": null,
+      "creationDate": "2024-02-12T15:26:51.823282",
+      "estimatedDecisionDate": "2024-02-20T09:53:00",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "LOW",
+      "urgencyCode": "no",
+      "degreeImpactCode": "no",
+      "priorityName": "Низкий",
+      "urgencyName": "Не определена",
+      "degreeImpactName": "Не определена",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "2b1f3592-92d7-40a2-a588-922d1d1b32c4",
+      "number": "1911-ОБ/2024",
+      "exactNumber": 1911,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "d05583ae-6d3b-4ecc-8a9a-a7bf5e728f0f",
+      "favourNumber": "1-У / 2023",
+      "favourTitle": "Вывод госуслуг на ЕПГУ",
+      "subject": "Подача заявки на ПО с ЕПГУ (на основании 1783-ОБ/2024. подача тестовой заявки с ЕПГУ от 15.03.2024)",
+      "userFio": "Пашкова Галина Валентиновна",
+      "userOrg": "Отдел обеспечения функционирования прикладных информационных систем (90)",
+      "creationDate": "2024-03-20T17:13:24.030612",
+      "estimatedDecisionDate": "2024-03-22T08:42:23",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "HIGH",
+      "urgencyCode": "HIGH",
+      "degreeImpactCode": "HIGH",
+      "priorityName": "Высокий",
+      "urgencyName": "Высокая",
+      "degreeImpactName": "Высокая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "30a11786-f397-4af6-8a1a-5e7f7cb93998",
+          "title": "ЕПГУ",
+          "number": "3-КЕ / 2023"
+        }
+      ]
+    },
+    {
+      "id": "3150eba8-a082-4004-90d1-81e0fd35aaae",
+      "number": "5178-ОБ/2022",
+      "exactNumber": 5178,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "9bfcd769-dc52-4c08-badb-f094c6c7b4b9",
+      "favourNumber": "35-У / 2021",
+      "favourTitle": "ГИС НИС - Интеграция с API ОнРП",
+      "subject": "Справочники стран мадридского соглашения, парижской конвенции",
+      "userFio": "Уразгильдин Тимур Русланович",
+      "userOrg": "ЗАО \"КРОК ИНКОРПОРЕЙТЕД\" (Онл Росп, СУПД)",
+      "creationDate": "2022-09-29T20:27:42.639495",
+      "estimatedDecisionDate": "2022-10-05T13:00:00",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "LOW",
+      "urgencyCode": "LOW",
+      "degreeImpactCode": "LOW",
+      "priorityName": "Низкий",
+      "urgencyName": "Низкая",
+      "degreeImpactName": "Низкая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "42d2e332-c760-4e1e-ac35-b59c190f9e6a",
+      "number": "3672-ОБ/2024",
+      "exactNumber": 3672,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "1d66c5bb-cdd8-45df-9f40-8733a74c1c43",
+      "favourNumber": "33-У / 2021",
+      "favourTitle": "ГИС НИС - Шина",
+      "subject": "Решить проблему с медленной отдацей ответов из ГИС НИС",
+      "userFio": "Пашкова Галина Валентиновна",
+      "userOrg": "Отдел обеспечения функционирования прикладных информационных систем (90)",
+      "creationDate": "2024-05-29T12:19:17.42708",
+      "estimatedDecisionDate": "2024-06-03T18:04:17",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "LOW",
+      "urgencyCode": "no",
+      "degreeImpactCode": "no",
+      "priorityName": "Низкий",
+      "urgencyName": "Не определена",
+      "degreeImpactName": "Не определена",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "4ea71f11-0d17-4c02-af8f-7931f4e11eb0",
+      "number": "5146-ОБ/2022",
+      "exactNumber": 5146,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "3d8aabf2-aba4-4d1e-a664-d257d8f6e591",
+      "favourNumber": "31-У / 2021",
+      "favourTitle": "ГИС НИС - НСИ ОИС (интерфейс)",
+      "subject": "завести ошибки в ЦСТП по проекту НИС - ОЭ НИС",
+      "userFio": "Золкин Дмитрий Сергеевич",
+      "userOrg": "Отдел проектирования информационно-поисковых систем (119)",
+      "creationDate": "2022-09-28T13:11:30.693759",
+      "estimatedDecisionDate": "2022-10-04T09:11:30",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "HIGH",
+      "urgencyCode": "no",
+      "degreeImpactCode": "no",
+      "priorityName": "Высокий",
+      "urgencyName": "Не определена",
+      "degreeImpactName": "Не определена",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "4f1a9f65-4d44-4123-88b8-b766dafe287d",
+      "number": "1669-ОБ/2024",
+      "exactNumber": 1669,
+      "kind": "CHANGES",
+      "type": "CHANGE_REQUEST",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "4a2dd0d7-fd1a-4e5d-a691-715079030530",
+      "favourNumber": "62-У / 2021",
+      "favourTitle": "ГИС НИС Иные услуги",
+      "subject": "Интеграция с видом сведений \"Передача статусов и результатов предоставления государственных и муниципальных услуг\".",
+      "userFio": "Кузякин Дмитрий Альбертович",
+      "userOrg": "Группа системного администрирования и управления конфигурациями информационных систем (отдел 66)",
+      "creationDate": "2024-03-12T15:46:11.852974",
+      "estimatedDecisionDate": "2024-03-13T15:46:52",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "HIGH",
+      "urgencyCode": "HIGH",
+      "degreeImpactCode": "HIGH",
+      "priorityName": "Высокий",
+      "urgencyName": "Высокая",
+      "degreeImpactName": "Высокая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "3.0 Планирование и согласование трудозатрат"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": []
+    },
+    {
+      "id": "4f9dbf5b-8610-4d2e-aa32-3c4e2240ccd4",
+      "number": "2531-ОБ/2024",
+      "exactNumber": 2531,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "dba2eb49-8be0-464d-8417-c56739a89d59",
+      "favourNumber": "30-У / 2021",
+      "favourTitle": "ГИС НИС ПМВЗ (интеграция со СМЭВ)",
+      "subject": "Ответ от СМЭВа <faultstring>Очередь получателя переполнена</faultstring>",
+      "userFio": "Diasoft (ГИС НИС) Support ГИС НИС",
+      "userOrg": "ООО \"Диасофт\"",
+      "creationDate": "2024-04-11T07:31:50.171887",
+      "estimatedDecisionDate": "2024-04-12T16:45:00",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "MIDDLE",
+      "urgencyCode": "no",
+      "degreeImpactCode": "no",
+      "priorityName": "Средний",
+      "urgencyName": "Не определена",
+      "degreeImpactName": "Не определена",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "51cc8b5c-6730-42a7-b092-0e0024dce2ea",
+      "number": "3354-ОБ/2024",
+      "exactNumber": 3354,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "dba2eb49-8be0-464d-8417-c56739a89d59",
+      "favourNumber": "30-У / 2021",
+      "favourTitle": "ГИС НИС ПМВЗ (интеграция со СМЭВ)",
+      "subject": "Отправка статусов по ТЗ через НИС на ЕПГУ. ",
+      "userFio": "Алилов Роман Газиевич",
+      "userOrg": "Служба технического заказчика (14)",
+      "creationDate": "2024-05-20T19:39:55.486132",
+      "estimatedDecisionDate": "2024-05-21T11:30:00",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "CRITICAL",
+      "urgencyCode": "CRITICAL",
+      "degreeImpactCode": "CRITICAL",
+      "priorityName": "Критический",
+      "urgencyName": "Критическая",
+      "degreeImpactName": "Критическая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "5456e780-d10c-4224-80a9-cac10a1170a8",
+      "number": "4466-ОБ/2024",
+      "exactNumber": 4466,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "550e1375-7bd3-4226-a60c-fa27615e939c",
+      "favourNumber": "5-У / 2024",
+      "favourTitle": "ГИС СУПД – Межсистемная интеграция",
+      "subject": "Отсутствует нотификация по отправке ИК из СУПД в ЕПГУ (через ГИС НИС -> СМЭВ 3)",
+      "userFio": "Рейн Любовь Николаевна",
+      "userOrg": "Отдел обеспечения функционирования прикладных информационных систем (90)",
+      "creationDate": "2024-06-25T16:45:36.910989",
+      "estimatedDecisionDate": "2024-06-27T15:15:36",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "MIDDLE",
+      "urgencyCode": "no",
+      "degreeImpactCode": "no",
+      "priorityName": "Средний",
+      "urgencyName": "Не определена",
+      "degreeImpactName": "Не определена",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "840e0b25-5912-4207-9dae-bdcd000ecdf5",
+          "title": "ГИС СУПД",
+          "number": "19-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "5a07813b-900d-4d0f-bf86-f755cdee9a69",
+      "number": "2623-ОБ/2024",
+      "exactNumber": 2623,
+      "kind": "INCIDENTS",
+      "type": "SERVICE_REQUEST",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "31d38e39-50d2-4b98-9f71-53af3fe91976",
+      "favourNumber": "32-У / 2021",
+      "favourTitle": "ГИС НИС - НСИ ОИС (API)",
+      "subject": "Актуализация данных справочника МПК",
+      "userFio": "Алилов Роман Газиевич",
+      "userOrg": "Служба технического заказчика (14)",
+      "creationDate": "2024-04-15T08:21:40.862582",
+      "estimatedDecisionDate": "2024-04-15T15:30:00",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "HIGH",
+      "urgencyCode": "HIGH",
+      "degreeImpactCode": "HIGH",
+      "priorityName": "Высокий",
+      "urgencyName": "Высокая",
+      "degreeImpactName": "Высокая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "5bfcc76b-f9cc-4396-90e3-78218e990a13",
+      "number": "2293-ОБ/2024",
+      "exactNumber": 2293,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "d05583ae-6d3b-4ecc-8a9a-a7bf5e728f0f",
+      "favourNumber": "1-У / 2023",
+      "favourTitle": "Вывод госуслуг на ЕПГУ",
+      "subject": "ЕПГУ. Некорректно передается «Адрес для переписки» в результирующий xml.",
+      "userFio": "Кузякин Дмитрий Альбертович",
+      "userOrg": "Группа системного администрирования и управления конфигурациями информационных систем (отдел 66)",
+      "creationDate": "2024-04-02T17:39:25.333296",
+      "estimatedDecisionDate": "2024-04-03T14:54:25",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "HIGH",
+      "urgencyCode": "HIGH",
+      "degreeImpactCode": "HIGH",
+      "priorityName": "Высокий",
+      "urgencyName": "Высокая",
+      "degreeImpactName": "Высокая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "30a11786-f397-4af6-8a1a-5e7f7cb93998",
+          "title": "ЕПГУ",
+          "number": "3-КЕ / 2023"
+        }
+      ]
+    },
+    {
+      "id": "60a01d10-41e2-44d2-9f96-599b73e14191",
+      "number": "1459-ОБ/2024",
+      "exactNumber": 1459,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "1d66c5bb-cdd8-45df-9f40-8733a74c1c43",
+      "favourNumber": "33-У / 2021",
+      "favourTitle": "ГИС НИС - Шина",
+      "subject": "шина межсистемного обмена в DMZ контуре",
+      "userFio": "Воронцов Георгий Александрович",
+      "userOrg": "Группа системного администрирования и управления конфигурациями информационных систем (отдел 66)",
+      "creationDate": "2024-03-04T11:37:55.097826",
+      "estimatedDecisionDate": "2024-03-07T17:22:54",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "LOW",
+      "urgencyCode": "no",
+      "degreeImpactCode": "no",
+      "priorityName": "Низкий",
+      "urgencyName": "Не определена",
+      "degreeImpactName": "Не определена",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "62fc67f9-6bb7-4f7b-87eb-f263eddd2733",
+      "number": "2398-ОБ/2024",
+      "exactNumber": 2398,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "2a7ef2aa-b0f1-4e63-ab16-1aff0d2ee434",
+      "favourNumber": "43-У / 2021",
+      "favourTitle": "ГИС СУПД - Обеспечение процессов делопроизводства ТЗ НМПТ ГУ ПрЭВМ БД ТИМС",
+      "subject": "Продвижение заявки, поданной с ЕПГУ, по сквозной цепочке",
+      "userFio": "Якушев Сергей Николаевич",
+      "userOrg": "ООО \"Диасофт\"",
+      "creationDate": "2024-04-05T12:28:38.79763",
+      "estimatedDecisionDate": "2024-04-10T18:13:38",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "LOW",
+      "urgencyCode": "CRITICAL",
+      "degreeImpactCode": "CRITICAL",
+      "priorityName": "Низкий",
+      "urgencyName": "Критическая",
+      "degreeImpactName": "Критическая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [
+        {
+          "orgTitle": "ООО «ЦИТ» (СФП, 3D ЭОД, ГИС ПУР)",
+          "operators": [
+            "Хамина Д.Н."
+          ]
+        }
+      ],
+      "bases": [
+        {
+          "id": "840e0b25-5912-4207-9dae-bdcd000ecdf5",
+          "title": "ГИС СУПД",
+          "number": "19-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "6d25460b-28e5-430b-bd34-37960349f926",
+      "number": "2894-ОБ/2024",
+      "exactNumber": 2894,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "3d8aabf2-aba4-4d1e-a664-d257d8f6e591",
+      "favourNumber": "31-У / 2021",
+      "favourTitle": "ГИС НИС - НСИ ОИС (интерфейс)",
+      "subject": "Ошибка выгрузки данных справочника МПК ",
+      "userFio": "Алилов Роман Газиевич",
+      "userOrg": "Служба технического заказчика (14)",
+      "creationDate": "2024-04-24T13:08:13.556379",
+      "estimatedDecisionDate": "2024-04-29T10:08:13",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "LOW",
+      "urgencyCode": "LOW",
+      "degreeImpactCode": "LOW",
+      "priorityName": "Низкий",
+      "urgencyName": "Низкая",
+      "degreeImpactName": "Низкая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "70c19511-87c1-418d-815e-20a719d263f9",
+      "number": "2086-ОБ/2024",
+      "exactNumber": 2086,
+      "kind": "CHANGES",
+      "type": "CHANGE_REQUEST",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "4a2dd0d7-fd1a-4e5d-a691-715079030530",
+      "favourNumber": "62-У / 2021",
+      "favourTitle": "ГИС НИС Иные услуги",
+      "subject": "Передача статусов второй очереди.",
+      "userFio": "Кузякин Дмитрий Альбертович",
+      "userOrg": "Группа системного администрирования и управления конфигурациями информационных систем (отдел 66)",
+      "creationDate": "2024-03-26T17:45:50.213685",
+      "estimatedDecisionDate": "2024-03-27T17:47:42",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "CRITICAL",
+      "urgencyCode": "CRITICAL",
+      "degreeImpactCode": "CRITICAL",
+      "priorityName": "Критический",
+      "urgencyName": "Критическая",
+      "degreeImpactName": "Критическая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "3.0 Планирование и согласование трудозатрат"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": []
+    },
+    {
+      "id": "7350b9c9-2e05-481d-8fa4-464770ec2697",
+      "number": "2101-ОБ/2024",
+      "exactNumber": 2101,
+      "kind": "CHANGES",
+      "type": "CHANGE_REQUEST",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "4a2dd0d7-fd1a-4e5d-a691-715079030530",
+      "favourNumber": "62-У / 2021",
+      "favourTitle": "ГИС НИС Иные услуги",
+      "subject": "ГОСКЛЮЧ",
+      "userFio": "Кузякин Дмитрий Альбертович",
+      "userOrg": "Группа системного администрирования и управления конфигурациями информационных систем (отдел 66)",
+      "creationDate": "2024-03-27T13:56:27.847929",
+      "estimatedDecisionDate": "2024-03-28T13:56:58",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "HIGH",
+      "urgencyCode": "HIGH",
+      "degreeImpactCode": "HIGH",
+      "priorityName": "Высокий",
+      "urgencyName": "Высокая",
+      "degreeImpactName": "Высокая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "3.0 Планирование и согласование трудозатрат"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": []
+    },
+    {
+      "id": "7f1d2e35-eaa9-4886-9c70-a0902e3b8680",
+      "number": "3673-ОБ/2024",
+      "exactNumber": 3673,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "dba2eb49-8be0-464d-8417-c56739a89d59",
+      "favourNumber": "30-У / 2021",
+      "favourTitle": "ГИС НИС ПМВЗ (интеграция со СМЭВ)",
+      "subject": "Обработка ошибок СМЭВа",
+      "userFio": "Пашкова Галина Валентиновна",
+      "userOrg": "Отдел обеспечения функционирования прикладных информационных систем (90)",
+      "creationDate": "2024-05-29T12:21:38.203401",
+      "estimatedDecisionDate": "2024-06-03T18:06:38",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "LOW",
+      "urgencyCode": "no",
+      "degreeImpactCode": "no",
+      "priorityName": "Низкий",
+      "urgencyName": "Не определена",
+      "degreeImpactName": "Не определена",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "8fc37e16-b2ba-4416-84a6-d53a620e4d7d",
+      "number": "2646-ОБ/2024",
+      "exactNumber": 2646,
+      "kind": "INCIDENTS",
+      "type": "SERVICE_REQUEST",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "31d38e39-50d2-4b98-9f71-53af3fe91976",
+      "favourNumber": "32-У / 2021",
+      "favourTitle": "ГИС НИС - НСИ ОИС (API)",
+      "subject": "Актуализация данных справочника СПК",
+      "userFio": "Алилов Роман Газиевич",
+      "userOrg": "Служба технического заказчика (14)",
+      "creationDate": "2024-04-15T12:41:54.579982",
+      "estimatedDecisionDate": "2024-04-16T09:56:54",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "HIGH",
+      "urgencyCode": "HIGH",
+      "degreeImpactCode": "HIGH",
+      "priorityName": "Высокий",
+      "urgencyName": "Высокая",
+      "degreeImpactName": "Высокая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "90f9be06-d258-4000-9cc6-1ac76f32779f",
+      "number": "2614-ОБ/2024",
+      "exactNumber": 2614,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "d05583ae-6d3b-4ecc-8a9a-a7bf5e728f0f",
+      "favourNumber": "1-У / 2023",
+      "favourTitle": "Вывод госуслуг на ЕПГУ",
+      "subject": "Ошибка прохождения сценария сквозной цепочки ЕПГУ(Изобретения).",
+      "userFio": "Кузякин Дмитрий Альбертович",
+      "userOrg": "Группа системного администрирования и управления конфигурациями информационных систем (отдел 66)",
+      "creationDate": "2024-04-12T14:28:25.940668",
+      "estimatedDecisionDate": "2024-04-17T15:20:00",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "HIGH",
+      "urgencyCode": "HIGH",
+      "degreeImpactCode": "HIGH",
+      "priorityName": "Высокий",
+      "urgencyName": "Высокая",
+      "degreeImpactName": "Высокая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "30a11786-f397-4af6-8a1a-5e7f7cb93998",
+          "title": "ЕПГУ",
+          "number": "3-КЕ / 2023"
+        }
+      ]
+    },
+    {
+      "id": "934bb966-a408-4b99-a60a-25bd8ff9eb63",
+      "number": "1667-ОБ/2024",
+      "exactNumber": 1667,
+      "kind": "CHANGES",
+      "type": "CHANGE_REQUEST",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "4a2dd0d7-fd1a-4e5d-a691-715079030530",
+      "favourNumber": "62-У / 2021",
+      "favourTitle": "ГИС НИС Иные услуги",
+      "subject": "Разработка проактивных форматов оказания услуг  (ЦАР в КЦР).",
+      "userFio": "Кузякин Дмитрий Альбертович",
+      "userOrg": "Группа системного администрирования и управления конфигурациями информационных систем (отдел 66)",
+      "creationDate": "2024-03-12T15:42:24.7524",
+      "estimatedDecisionDate": "2024-03-13T15:43:19",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "HIGH",
+      "urgencyCode": "HIGH",
+      "degreeImpactCode": "HIGH",
+      "priorityName": "Высокий",
+      "urgencyName": "Высокая",
+      "degreeImpactName": "Высокая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "3.0 Планирование и согласование трудозатрат"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": []
+    },
+    {
+      "id": "9936794b-cb47-457c-b36d-23f50c55cdfa",
+      "number": "1670-ОБ/2024",
+      "exactNumber": 1670,
+      "kind": "CHANGES",
+      "type": "CHANGE_REQUEST",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "4a2dd0d7-fd1a-4e5d-a691-715079030530",
+      "favourNumber": "62-У / 2021",
+      "favourTitle": "ГИС НИС Иные услуги",
+      "subject": "Разработка инструмента отправки статуса на ЕПГУ.",
+      "userFio": "Кузякин Дмитрий Альбертович",
+      "userOrg": "Группа системного администрирования и управления конфигурациями информационных систем (отдел 66)",
+      "creationDate": "2024-03-12T15:49:05.814127",
+      "estimatedDecisionDate": "2024-03-13T15:49:31",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "HIGH",
+      "urgencyCode": "HIGH",
+      "degreeImpactCode": "HIGH",
+      "priorityName": "Высокий",
+      "urgencyName": "Высокая",
+      "degreeImpactName": "Высокая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "3.0 Планирование и согласование трудозатрат"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": []
+    },
+    {
+      "id": "a341e666-8d27-44c0-9221-53114d3e20df",
+      "number": "5177-ОБ/2022",
+      "exactNumber": 5177,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "9bfcd769-dc52-4c08-badb-f094c6c7b4b9",
+      "favourNumber": "35-У / 2021",
+      "favourTitle": "ГИС НИС - Интеграция с API ОнРП",
+      "subject": "Данные справочника Патентных поверенных ",
+      "userFio": "Уразгильдин Тимур Русланович",
+      "userOrg": "ЗАО \"КРОК ИНКОРПОРЕЙТЕД\" (Онл Росп, СУПД)",
+      "creationDate": "2022-09-29T20:14:10.266883",
+      "estimatedDecisionDate": "2022-09-30T14:00:00",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "HIGH",
+      "urgencyCode": "LOW",
+      "degreeImpactCode": "no",
+      "priorityName": "Высокий",
+      "urgencyName": "Низкая",
+      "degreeImpactName": "Не определена",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "aa79a604-945f-4438-9adb-992af5e67028",
+      "number": "4416-ОБ/2024",
+      "exactNumber": 4416,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "dba2eb49-8be0-464d-8417-c56739a89d59",
+      "favourNumber": "30-У / 2021",
+      "favourTitle": "ГИС НИС ПМВЗ (интеграция со СМЭВ)",
+      "subject": "Передача нескольких ВК по ПО с ЕПГУ на тестовом стенде",
+      "userFio": "Алилов Роман Газиевич",
+      "userOrg": "Служба технического заказчика (14)",
+      "creationDate": "2024-06-25T10:09:48.0214",
+      "estimatedDecisionDate": "2024-07-02T13:52:47",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "HIGH",
+      "urgencyCode": "HIGH",
+      "degreeImpactCode": "HIGH",
+      "priorityName": "Высокий",
+      "urgencyName": "Высокая",
+      "degreeImpactName": "Высокая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "adcaa013-674c-4488-a7f2-8159a4eaa9ce",
+      "number": "412-ОБ/2024",
+      "exactNumber": 412,
+      "kind": "CHANGES",
+      "type": "CHANGE_REQUEST",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "4a2dd0d7-fd1a-4e5d-a691-715079030530",
+      "favourNumber": "62-У / 2021",
+      "favourTitle": "ГИС НИС Иные услуги",
+      "subject": "Замечания к ГИС НИС ",
+      "userFio": "Кузякин Дмитрий Альбертович",
+      "userOrg": "Группа системного администрирования и управления конфигурациями информационных систем (отдел 66)",
+      "creationDate": "2024-01-23T16:11:13.507365",
+      "estimatedDecisionDate": "2024-01-24T17:03:55",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "HIGH",
+      "urgencyCode": "no",
+      "degreeImpactCode": "no",
+      "priorityName": "Высокий",
+      "urgencyName": "Не определена",
+      "degreeImpactName": "Не определена",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "3.0 Планирование и согласование трудозатрат"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": []
+    },
+    {
+      "id": "ae6cc7d5-c364-4019-99f6-8e143ad1f84a",
+      "number": "3670-ОБ/2024",
+      "exactNumber": 3670,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "dba2eb49-8be0-464d-8417-c56739a89d59",
+      "favourNumber": "30-У / 2021",
+      "favourTitle": "ГИС НИС ПМВЗ (интеграция со СМЭВ)",
+      "subject": "перенаправлять ответы от СМЭВ и ГИС ГМП в блоках AsyncProcessingStatus, SenderProvidedResponseData, SmevFault, Fault для АДБ",
+      "userFio": "Пашкова Галина Валентиновна",
+      "userOrg": "Отдел обеспечения функционирования прикладных информационных систем (90)",
+      "creationDate": "2024-05-29T12:17:06.345795",
+      "estimatedDecisionDate": "2024-06-03T18:02:06",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "LOW",
+      "urgencyCode": "no",
+      "degreeImpactCode": "no",
+      "priorityName": "Низкий",
+      "urgencyName": "Не определена",
+      "degreeImpactName": "Не определена",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "ae888d36-cae6-43e4-943f-b87a439eb9f6",
+      "number": "4784-ОБ/2024",
+      "exactNumber": 4784,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "dba2eb49-8be0-464d-8417-c56739a89d59",
+      "favourNumber": "30-У / 2021",
+      "favourTitle": "ГИС НИС ПМВЗ (интеграция со СМЭВ)",
+      "subject": "Недошедшие до ЕХД и СУПД заявки с ЕПГУ по ПО.",
+      "userFio": "Алилов Роман Газиевич",
+      "userOrg": "Служба технического заказчика (14)",
+      "creationDate": "2024-07-09T10:42:29.541538",
+      "estimatedDecisionDate": "2024-07-09T12:42:29",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "CRITICAL",
+      "urgencyCode": "CRITICAL",
+      "degreeImpactCode": "CRITICAL",
+      "priorityName": "Критический",
+      "urgencyName": "Критическая",
+      "degreeImpactName": "Критическая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    },
+    {
+      "id": "b7cb2e4d-e0cd-40f3-b0fc-807cbd70c38e",
+      "number": "4862-ОБ/2022",
+      "exactNumber": 4862,
+      "kind": "INCIDENTS",
+      "type": "INCIDENT",
+      "status": "EXECUTION",
+      "categoryId": "f6a2c452-8d34-4851-8ac4-ddf9ec5691a7",
+      "categoryName": "Поддержка АС",
+      "favourId": "31d38e39-50d2-4b98-9f71-53af3fe91976",
+      "favourNumber": "32-У / 2021",
+      "favourTitle": "ГИС НИС - НСИ ОИС (API)",
+      "subject": "Данные справочника Патентных поверенных",
+      "userFio": "Мирющенко Елена Анатольевна",
+      "userOrg": "ЗАО \"КРОК ИНКОРПОРЕЙТЕД\" (Онл Росп, СУПД)",
+      "creationDate": "2022-09-08T13:28:26.698838",
+      "estimatedDecisionDate": "2022-09-09T10:28:26",
+      "actualDecisionDate": null,
+      "closingDate": null,
+      "priorityCode": "HIGH",
+      "urgencyCode": "no",
+      "degreeImpactCode": "HIGH",
+      "priorityName": "Высокий",
+      "urgencyName": "Не определена",
+      "degreeImpactName": "Высокая",
+      "overdue": true,
+      "canDelete": false,
+      "canAddLink": true,
+      "tasks": [
+        "Обработка сотрудником третьей линии"
+      ],
+      "executors": [
+        {
+          "orgTitle": "ООО \"Диасофт\"",
+          "operators": [
+            "Diasoft (ГИС НИС) S.Г."
+          ]
+        }
+      ],
+      "actualExecutors": [],
+      "bases": [
+        {
+          "id": "94017ce9-da05-4c70-b306-96881a9c1ff5",
+          "title": "ГИС НИС",
+          "number": "15-КЕ / 2021"
+        }
+      ]
+    }
+  ],
+  "counter": {
+    "total": 38,
+    "execution": 38,
+    "overdue": 38,
+    "executed": 0,
+    "pending": 0
+  },
+  "totalRows": 38
+}
